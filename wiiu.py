@@ -1,5 +1,6 @@
 from gui.plugins import basePlugin
 from gui.widgets import categoryPage
+from gui.widgets import installedCategoryPage
 from appstore import Appstore
 
 WIIU_REPO = "http://wiiubru.com/appstore/"
